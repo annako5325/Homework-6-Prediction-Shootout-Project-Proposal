@@ -13,13 +13,10 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Output folders
-outputs/
+# Output folders - comment out to allow uploading
+# outputs/
 *.jpg
 *.jpeg
-*.tif
-*.tiff
-*.csv
 
 # GIS / raster temp
 *.aux.xml
