@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
+
+# VS Code
+.vscode/
+
+# Output folders
+outputs/
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.csv
+
+# GIS / raster temp
+*.aux.xml
+*.ovr
+*.tfw
+*.cpg
+*.prj~
+*.qml
+
+# Large data files if needed
+*.zip
+*.7z
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
